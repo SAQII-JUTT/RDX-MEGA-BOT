@@ -1,4 +1,122 @@
-[
+[[
+    {
+        "key": "dbln",
+        "value": "%7B%2261590531002716%22%3A%22Wh6l3YQ7%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2026-06-04T10:56:05.567Z",
+        "lastAccessed": "2026-06-04T10:56:05.571Z"
+    },
+    {
+        "key": "datr",
+        "value": "42gdajR6GQXukFY5B5vLsFKS",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-06-04T10:56:05.571Z",
+        "lastAccessed": "2026-06-04T10:56:05.571Z"
+    },
+    {
+        "key": "sb",
+        "value": "42gdal249dDHMEL8nf24HJTZ",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-06-04T10:56:05.571Z",
+        "lastAccessed": "2026-06-04T10:56:05.571Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-06-04T10:56:05.571Z",
+        "lastAccessed": "2026-06-04T10:56:05.571Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B754x384x1.875",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-06-04T10:56:05.571Z",
+        "lastAccessed": "2026-06-04T10:56:05.571Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61590531002716",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-06-04T10:56:05.571Z",
+        "lastAccessed": "2026-06-04T10:56:05.571Z"
+    },
+    {
+        "key": "xs",
+        "value": "4%3Aq3kaOLhQBKNBDg%3A2%3A1780404582%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-06-04T10:56:05.571Z",
+        "lastAccessed": "2026-06-04T10:56:05.571Z"
+    },
+    {
+        "key": "pas",
+        "value": "61590059595397%3A9L6NEbAFNq%2C61590531002716%3Ad8AjSxulTX",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-06-04T10:56:05.571Z",
+        "lastAccessed": "2026-06-04T10:56:05.571Z"
+    },
+    {
+        "key": "dpr",
+        "value": "2.061462879180908",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-06-04T10:56:05.571Z",
+        "lastAccessed": "2026-06-04T10:56:05.571Z"
+    },
+    {
+        "key": "wd",
+        "value": "891x1750",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-06-04T10:56:05.571Z",
+        "lastAccessed": "2026-06-04T10:56:05.571Z"
+    },
+    {
+        "key": "fr",
+        "value": "031wpsq2FxFHhoFia.AWeKFJVWvnoCo65ZAb4pdXdcGeNS8zH3D1TTcOWz8G7ZTRzEt90.BqHWjj..AAA.0.0.BqIVYX.AWdoRRthizn7R_3pxYb6G7qBR2w",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-06-04T10:56:05.571Z",
+        "lastAccessed": "2026-06-04T10:56:05.571Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101539155%3BT%3A29676160",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-06-04T10:56:05.571Z",
+        "lastAccessed": "2026-06-04T10:56:05.571Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3180%3Btimestamp%3A1780569624",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-06-04T10:56:05.571Z",
+        "lastAccessed": "2026-06-04T10:56:05.571Z"
+    }
+      ]
   {
     "key": "dbln",
     "value": "%7B%22100004146368712%22%3A%22GDSUP4Zy%22%2C%22100004574085559%22%3A%2271csA1VI%22%2C%22100003046658664%22%3A%22TMt0xL8Y%22%2C%22100004955718671%22%3A%22G28IRj3J%22%2C%2261586207258118%22%3A%22oudaNaEi%22%2C%22100004283197641%22%3A%22FSnEvBGt%22%2C%2261586089544444%22%3A%22jmijIy6n%22%2C%2261577333014737%22%3A%227LuEfYRu%22%2C%2261588474334437%22%3A%22ZBDjn7CO%22%2C%2261577393221046%22%3A%221UPkoMno%22%2C%22100047820370259%22%3A%221BTketbF%22%2C%2261580718897727%22%3A%22Lbk23mrQ%22%2C%22100004807696030%22%3A%22WQZM2D6A%22%2C%22100004617181677%22%3A%22gK2IB955%22%2C%2261577677281556%22%3A%22ryHx6B7n%22%2C%22100004801116885%22%3A%22NQdAmNhW%22%7D",
